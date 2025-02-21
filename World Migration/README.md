@@ -19,7 +19,7 @@ Using Tableau, this dashboard provides answers to two key migration-related ques
 - All visualizations for this question are presented on a **single dashboard**.
 
 ## 📂 Files Included
-- 📄 `Migration Dashboard.twbx` → Tableau Packaged Workbook
+- 📄 `Migration Dashboard.twb` → Tableau Packaged Workbook
 - 📊 `Dashboard 1.png` → Dashboard 1 Preview Image
 - 📊 `Dashboard 2.png` → Dashboard 2 Preview Image
 - 📄 `README.md` → Project Instructions
@@ -27,7 +27,7 @@ Using Tableau, this dashboard provides answers to two key migration-related ques
 
 ## 🚀 How to Use the Dashboard
 1. **Download and Open**
-   - Download the `Migration Dashboard.twbx` and the data file file from this repository.
+   - Download the `Migration Dashboard.twb` and the data file file from this repository.
    - Open it in **Tableau Desktop**.
 
 2. **Explore the Visualizations**
@@ -40,7 +40,7 @@ Using Tableau, this dashboard provides answers to two key migration-related ques
    - Enhance the dashboard by integrating additional visualizations.
 
 ## 📊 Sample Dashboard Preview
-![Dashboard Preview](Dashboard 1.png)
+![Dashboard Preview](https://github.com/Vid2501/Tableau/blob/main/World%20Migration/Dashboard%201.png?raw=true)
 
 ## Source:
 https://www.un.org/development/desa/pd/content/international-migrant-stock
